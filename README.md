@@ -1,7 +1,9 @@
 <h1 align='center'>
   Olá👋
   <br>
-  Meu nome é Diego Fagundes!, Dev Front End.
+  Meu nome é Diego Fagundes!
+  <br>
+  Dev Front End.
 </h1>
 <p align='center'>
   Seja bem-vindo ao meu GitHub
