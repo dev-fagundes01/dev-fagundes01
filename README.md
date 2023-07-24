@@ -14,20 +14,20 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,styledcomponents,nodejs,express,vite,vscode,git,figma,vercel,yarn)](https://skillicons.dev)
 <br>
 <br>
-<div direction='row'>
-  <div align='center'>
+<div>
+
   <p>
       📈 Minhas Estatísticas
   </p>
 <a href="https://github.com/DiegoSilva1919">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  <div align='center'>
+
+
     <p>
       Principais Idiomas
     </p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSilva1919&layout=compact&theme=dracula"/>
-  </div>
+
 </div>
 <br>
     
