@@ -19,15 +19,11 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   📈 Minhas Estatísticas
 </h2>
 
- ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&hide_border=true&count_private=true&theme=jolly)   [![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoSilva1919&theme=jolly)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoSilva1919&theme=dark)](https://git.io/streak-stats)  ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&hide_border=true&count_private=true&theme=dark)  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/DiegoSilva1919/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/DiegoSilva1919/github-readme-stats)
   
 <br>
-<br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSilva1919&layout=compact&theme=dracula"/>
-
 <br>
     
 <h2>Conecte-se comigo:</h2>
