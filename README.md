@@ -24,8 +24,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoSilva1919&theme=dark)](https://git.io/streak-stats) 
   
 <br>
-<br>
-    
+
 <h2>Conecte-se comigo:</h2>
 
 <div style="display: inline_block">
