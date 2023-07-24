@@ -19,7 +19,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   📈 Minhas Estatísticas
 </h2>
 
-![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&hide_border=true&count_private=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSilva1919&layout=donut&theme=dark)](https://github.com/DiegoSilva1919/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSilva1919&layout=donut&theme=dark)](https://github.com/DiegoSilva1919/github-readme-stats) ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoSilva1919&theme=dark)](https://git.io/streak-stats) 
  
