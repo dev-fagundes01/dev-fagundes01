@@ -15,12 +15,14 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 <br>
 <br>
+<h2>
+  📈 Minhas Estatísticas
+</h2>
 
-  <p>
-      📈 Minhas Estatísticas
-  </p>
+ ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&hide_border=true&count_private=true&theme=jolly)   [![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoSilva1919&theme=jolly)](https://git.io/streak-stats) 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/DiegoSilva1919/github-readme-stats)
   
-    
 <br>
 <br>
 
