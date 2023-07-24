@@ -6,18 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSilva1919&layout=compact&theme=dracula"/>
 <br>
-<div style="display: inline_block">
-  <br>
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <img width='40px' height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
+    
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,styledcomponents,nodejs,express,vite,vscode,git,figma,vercel,yarn)](https://skillicons.dev)
+    
 <h2>Conecte-se comigo:</h2>
 <div style="display: inline_block">
   <br>
