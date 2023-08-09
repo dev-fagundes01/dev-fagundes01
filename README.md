@@ -40,7 +40,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   <a href="https://www.linkedin.com/in/diego-fagundes-da-silva-694ab71b3/" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-    <a href='mailto:fagundesdiego2015bolcombr@gmail.com' target='_blank' rel="nofollow">
+    <a href='[mailto:fagundesdiego2015bolcombr@gmail.com](https://web.telegram.org/k/)' target='_blank' rel="nofollow">
     <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>
   </a>
   <a href="https://wa.me/qr/EBYVIZJRG3FPF1" target='_blank' rel="nofollow">
