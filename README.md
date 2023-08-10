@@ -13,6 +13,7 @@
 Dev Front-end
 <br>
 Futuro Full-Stack
+Estou atualmente estudando React, Sass e Tailwind
 
 ### ⚡Tecnologias:
 
