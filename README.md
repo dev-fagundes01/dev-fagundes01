@@ -18,7 +18,7 @@ Futuro Full-Stack
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,styledcomponents,sass,nodejs,express,vite,vscode,git,figma,vercel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,styledcomponents,sass,nodejs,express,vite,vscode,git,figma,vercel,postman)](https://skillicons.dev)
 
 <br>
 
