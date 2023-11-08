@@ -10,7 +10,7 @@
 </p>
 
 ### 💫 Sobre Mim:
-Dev Front-end, atualmente estudando React, Sass e Tailwind
+Dev Front-end, atualmente estudando React, Sass
 <br>
 Futuro Full-Stack
 
