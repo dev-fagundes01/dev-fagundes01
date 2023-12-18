@@ -26,10 +26,10 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   📈 Minhas Estatísticas
 </h2>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DiegoSilva1919/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DiegoSilva1919&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DiegoSilva1919/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSilva1919&layout=donut&theme=dark)](https://github.com/DiegoSilva1919/github-readme-stats) 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dfagundes2001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dfagundes2001/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dfagundes2001&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dfagundes2001/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfagundes2001&layout=donut&theme=dark)](https://github.com/dfagundes2001/github-readme-stats) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoSilva1919&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dfagundes2001&theme=dark)](https://git.io/streak-stats) 
   
 <br>
 
