@@ -50,7 +50,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
   <a href="https://portifolio-react-rosy.vercel.app/" rel="nofollow">
-    <img     src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Portfolio-F80000?style=for-the-badge&logo=portfolio&logoColor=black">
   </a>
 </div>
     
