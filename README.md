@@ -10,7 +10,7 @@
 </p>
 
 ### 💫 Sobre Mim:
-Dev Front-end, atualmente estudando React
+Dev Front-end, atualmente estudando Firebase
 <br>
 Futuro Full-Stack
 
