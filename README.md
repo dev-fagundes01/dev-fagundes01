@@ -10,7 +10,7 @@
 </p>
 
 ### 💫 Sobre Mim:
-Dev Front-end, atualmente estudando Firebase
+Dev Front-end, atualmente estudando TypeScript
 <br>
 Futuro Full-Stack
 
