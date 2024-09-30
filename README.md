@@ -26,10 +26,10 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   📈 Minhas Estatísticas
 </h2>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dfagundes01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dfagundes01/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dfagundes01&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dfagundes01/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfagundes01&layout=donut&theme=dark)](https://github.com/dfagundes01/github-readme-stats) 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-fagundes01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dev-fagundes01/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dev-fagundes01&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dev-fagundes01/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fagundes01&layout=donut&theme=dark)](https://github.com/dev-fagundes01/github-readme-stats) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dfagundes01&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-fagundes01&theme=dark)](https://git.io/streak-stats) 
   
 <br>
 
