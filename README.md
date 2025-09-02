@@ -18,8 +18,14 @@ Futuro Full-Stack
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,tailwind,styledcomponents,sass,nodejs,express,vite,figma,postman,prisma,mongodb,firebase,npm,yarn,pnpm,powershell)](https://skillicons.dev)
+🎨 Frontend <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,vue,react,nextjs,tailwind,styledcomponents,sass,vite)](https://skillicons.dev)
 
+⚙️ Backend & Banco de Dados <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,supabase,postgres,firebase)](https://skillicons.dev)
+
+🧪 Ferramentas, Testes & DevOps <br>
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,npm,yarn,pnpm,powershell,postman,figma,jest,vitest,bitbucket,mint)](https://skillicons.dev)
 <br>
 
 <h2>
