@@ -10,21 +10,22 @@
 </p>
 
 ### 💫 Sobre Mim:
-Dev Front-end, atualmente estudando TypeScript
-<br>
-Futuro Full-Stack
+Dev Front-end, Futuro Full-Stack
 
 ### ⚡Tecnologias:
 
-Estas são algumas das tecnologias e ferramentas que utilizo:
+Estas são algumas das tecnologias e ferramentas que utilizo
 
-🎨 Frontend <br>
+🎨 Frontend: 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,vue,react,nextjs,tailwind,styledcomponents,sass,vite)](https://skillicons.dev)
 
-⚙️ Backend & Banco de Dados <br>
+⚙️ Backend & Banco de Dados: 
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,supabase,postgres,firebase)](https://skillicons.dev)
 
-🧪 Ferramentas, Testes & DevOps <br>
+🧪 Ferramentas, Testes & DevOps: 
+
 [![My Skills](https://skillicons.dev/icons?i=docker,gcp,npm,yarn,pnpm,powershell,postman,figma,jest,vitest,bitbucket,mint)](https://skillicons.dev)
 <br>
 
